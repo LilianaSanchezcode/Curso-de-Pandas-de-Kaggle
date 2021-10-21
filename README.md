@@ -1,7 +1,7 @@
 # Curso-de-Pandas-de-Kaggle
 Pandas de Kaggle
 
-Este curso es de Kaggle y el Link de acceso al curso:
+Este curso es de Kaggle y su  Link de acceso es:
 https://www.kaggle.com/learn/pandas
 
 Resuelva desafíos prácticos breves para perfeccionar sus habilidades de manipulación de datos.

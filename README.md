@@ -11,6 +11,9 @@ Resuelva desafíos prácticos breves para perfeccionar sus habilidades de manipu
 ![](imagen3.png)
 
 
+![](imagen4.png)
+
+
 
 
 
